@@ -2,15 +2,15 @@ Fichier FFVV « Espace Aérien France »
 ========
 
 Recopié de temps en temps depuis la page de la FFVV
-(http://fichier-ea.ffvv.org), et suppression du journal intégré au
-fichier, qui fait doublon avec le journal de git.
+(http://fichier-ea.ffvv.org).
+
+Différences avec l’original :
+* suppression du journal intégré au fichier, qui fait doublon avec le journal de git
+* suppression des espaces en fin de lignes
+* suppression des sauts de lignes doubles
 
                                AIRSPACE OF FRANCE
                          OPTIMIZED FOR GLIDER ACTIVITY
-
-                          Special Use Airspace v1504f
-
-                            SOURCE: AIP FRANCE 150402
 
                          ********************************
                          UNOFFICIAL, USE AT YOUR OWN RISK
