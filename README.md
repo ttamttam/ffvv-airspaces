@@ -3,7 +3,7 @@ Fichier FFVV « Espace Aérien France »
 
 Recopié de temps en temps depuis la page de la FFVV
 (http://fichier-ea.ffvv.org), et suppression du journal intégré au
-fichier, qui fait doublon avec git.
+fichier, qui fait doublon avec le journal de git.
 
                                AIRSPACE OF FRANCE
                          OPTIMIZED FOR GLIDER ACTIVITY
