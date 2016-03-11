@@ -9,6 +9,8 @@ Différences avec l’original :
 * suppression des espaces en fin de lignes
 * suppression des sauts de lignes doubles
 
+
+
                                AIRSPACE OF FRANCE
                          OPTIMIZED FOR GLIDER ACTIVITY
 
