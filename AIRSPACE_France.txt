@@ -20,7 +20,7 @@
 *             expressed or implied. USER ASSUMES ALL RISK OF USE.              *
 *                                                                              *
 *         Courtesy of French Gliding Association : fichier-ea@ffvv.org         *
-* 				http://fichier-ea.ffvv.org	               *
+* 				http://fichier-ea.ffvv.org                                           *
 *                                                                              *
 ********************************************************************************
 
@@ -89,7 +89,7 @@ DC 0.05
 
 ** ZRT VALENCE (23-10-2015) **
 AC R
-AN ZRT Valence 120.1  Du 12-11-2015 au 29-04-2016
+AN ZRT Valence 120.1 Du 12-11-2015 au 29-04-2016
 AH 3300FT AMSL
 AL SFC
 DP 45:01:50 N 004:57:32 E
@@ -104,7 +104,7 @@ DP 45:00:05 N 004:55:17 E
 
 ** ZRT LE HAVRE (22/06/2017) **
 AC R
-AN ZRT Le Havre  135.2  Du 30/03/2017 au 08/11/2017
+AN ZRT Le Havre 135.2 Du 30/03/2017 au 08/11/2017
 AH 2500FT AMSL
 AL SFC
 DP 49:31:01 N 000:00:03 W
@@ -115,7 +115,7 @@ DP 49:31:01 N 000:00:03 W
 
 ** ZRT VALENCE (01/01/2017) **
 AC R
-AN ZRT Valence 120.1  Du 01/01/2017 au 08/11/2017
+AN ZRT Valence 120.1 Du 01/01/2017 au 08/11/2017
 AH 2500FT AMSL
 AL SFC
 DP 44:54:52 N 005:02:35 E
@@ -234,7 +234,7 @@ DP 43:23:41 N 001:18:15 E
 DP 43:26:32 N 001:10:27 E
 
 *********************************
-*   TRANSPONDER MANDATORY ZONE        *
+*   TRANSPONDER MANDATORY ZONE  *
 *     SUP AIP France            *
 *********************************
 
@@ -3839,7 +3839,7 @@ DP 46:26:20 N 006:28:44 E
 **French Border**
 DP 46:27:18 N 006:37:35 E
 
-** TMA GENEVE partie  3 (2017/11/09) **
+** TMA GENEVE partie 3 (2017/11/09) **
 AC C
 AN TMA GENEVE partie 3
 AH FL195
@@ -3983,7 +3983,7 @@ DP 45:47:48 N 005:33:17 E
 DP 45:49:44 N 005:34:53 E
 DP 45:52:25 N 006:07:45 E
 
-** TMA GENEVE partie 10  (2017/11/09) **
+** TMA GENEVE partie 10 (2017/11/09) **
 AC C
 AN TMA GENEVE partie 10
 AH FL155
@@ -4429,7 +4429,7 @@ DP 50:48:50 N 002:36:43 E
 
 ** (04/02/2014) TMA LILLE partie 9 Partie française**
 AC E
-AN TMA LILLE9  Partie française 120.275
+AN TMA LILLE9 Partie française 120.275
 AH 4500FT AMSL
 AL 2000FT AMSL
 DP 50:49:01 N 002:37:56 E
@@ -4445,7 +4445,7 @@ DP 50:49:01 N 002:37:56 E
 
 ** TMA LILLE partie 9.1 Partie Belge **
 AC E
-AN TMA LILLE9.1  Partie Belge 120.275
+AN TMA LILLE9.1 Partie Belge 120.275
 AH 4500FT AMSL
 AL 2000FT AMSL
 DP 50:50:38 N 002:48:16 E
@@ -5712,7 +5712,7 @@ DP 43:17:06 N 004:29:16 E
 DP 43:23:38 N 004:12:30 E
 DP 43:30:00 N 004:18:30 E
 
-**  TMA MONTPELLIER partie 12 (2017/11/09)**
+** TMA MONTPELLIER partie 12 (2017/11/09)**
 ** only when S/CTA 4 Rhone non active **
 AC D
 AN TMA MONTPELLIER partie 12
@@ -5835,7 +5835,7 @@ DP 42:43:12 N 003:15:02 E
 DP 42:58:18 N 003:19:03 E
 DP 42:59:14 N 003:20:18 E
 
-**  TMA MONTPELLIER partie 18 (2017/11/09)**
+** TMA MONTPELLIER partie 18 (2017/11/09)**
 AC D
 AN TMA MONTPELLIER partie 18
 AH FL145
@@ -5880,7 +5880,7 @@ DB 42:42:44 N 002:36:00 E,42:49:59 N 002:37:11 E
 DP 42:49:59 N 002:37:11 E
 DP 42:50:42 N 002:40:51 E
 
-**  TMA MONTPELLIER partie 20 (2017/11/09)**
+** TMA MONTPELLIER partie 20 (2017/11/09)**
 AC D
 AN TMA MONTPELLIER partie 20
 AH FL145
@@ -5921,7 +5921,7 @@ DB 42:43:12 N 003:15:02 E,43:00:11 N 003:02:31 E
 DP 43:00:11 N 003:02:31 E
 DP 43:04:29 N 003:06:34 E
 
-**  TMA MONTPELLIER partie 22 (2017/11/09)**
+** TMA MONTPELLIER partie 22 (2017/11/09)**
 AC D
 AN TMA MONTPELLIER partie 22
 AH FL145
@@ -5934,7 +5934,7 @@ DP 43:06:16 N 003:01:24 E
 DP 43:12:45 N 002:42:25 E
 DP 43:19:11 N 002:42:27 E
 
-**  TMA MONTPELLIER partie 23 (2017/11/09)**
+** TMA MONTPELLIER partie 23 (2017/11/09)**
 AC D
 AN TMA MONTPELLIER partie 23
 AH FL145
@@ -7135,7 +7135,7 @@ DP 46:38:45 N 001:45:25 E
 DP 46:34:20 N 001:41:25 E
 DP 46:39:00 N 001:25:00 E
 
-** TMA PONTOISE  (2018/03/29) **
+** TMA PONTOISE (2018/03/29) **
 AC D
 AN Pontoise
 AH 2500FT AMSL
@@ -9321,7 +9321,7 @@ DP 44:24:26 N 003:27:12 E
 DP 44:32:21 N 003:20:56 E
 DP 44:35:15 N 003:21:30 E
 
-** CTA SALON Partie 1  (2018/03/29) **
+** CTA SALON Partie 1 (2018/03/29) **
 AC D
 AN CTA Salon1 (Salon 135.15)
 AH 4500FT AMSL
@@ -9341,34 +9341,34 @@ DP 43:39:00 N 005:02:00 E
 DP 43:46:20 N 004:58:00 E
 DP 43:54:50 N 004:59:35 E
 
-** CTA SALON Partie 2  (2018/03/29) **
+** CTA SALON Partie 2 (2018/03/29) **
 AC D
 AN CTA Salon2 (Salon 135.15)
 AH FL75
 AL 3000FT AMSL
-DP 43:59:45 N  005:02:25 E
-DP 43:58:51 N  005:19:16 E
-DP 43:34:54 N  005:28:58 E
-DP 43:35:12 N  005:25:23 E
-DP 43:33:44 N  005:20:11 E
-DP 43:33:50 N  005:19:30 E
-DP 43:53:21 N  005:12:39 E
-DP 43:56:20 N  005:02:20 E
-DP 43:59:45 N  005:02:25 E
+DP 43:59:45 N 005:02:25 E
+DP 43:58:51 N 005:19:16 E
+DP 43:34:54 N 005:28:58 E
+DP 43:35:12 N 005:25:23 E
+DP 43:33:44 N 005:20:11 E
+DP 43:33:50 N 005:19:30 E
+DP 43:53:21 N 005:12:39 E
+DP 43:56:20 N 005:02:20 E
+DP 43:59:45 N 005:02:25 E
 
-** CTA SALON Partie 3  (2018/03/29) **
+** CTA SALON Partie 3 (2018/03/29) **
 AC D
 AN CTA Salon3 (Salon 135.15)
 AH FL65
 AL 4500FT AMSL
-DP 43:56:20 N  005:02:20 E
-DP 43:54:50 N  004:59:35 E
-DP 43:51:42 N  004:59:02 E
-DP 43:50:00 N  005:03:00 E
-DP 43:42:38 N  005:06:00 E
-DP 43:42:37 N  005:16:26 E
-DP 43:53:21 N  005:12:39 E
-DP 43:56:20 N  005:02:20 E
+DP 43:56:20 N 005:02:20 E
+DP 43:54:50 N 004:59:35 E
+DP 43:51:42 N 004:59:02 E
+DP 43:50:00 N 005:03:00 E
+DP 43:42:38 N 005:06:00 E
+DP 43:42:37 N 005:16:26 E
+DP 43:53:21 N 005:12:39 E
+DP 43:56:20 N 005:02:20 E
 
 ** CTA TOULON Partie 1.1 (08 APR 2010) **
 AC D
@@ -9948,7 +9948,7 @@ DC 3
 ** (01/05/2016) LF P 42 KERLOUAN
 AC P
 AN P42 KERLOUAN
-AH  2000FT AMSL
+AH 2000FT AMSL
 AL SFC
 V X=48:38:16 N 004:21:03 W
 DC 1
@@ -9968,7 +9968,7 @@ DP 46:48:22 N 001:09:57 E
 ** LF P 44 LA REGINE (2017/11/09) **
 AC P
 AN P44 LA REGINE
-AH  3100FT AMSL
+AH 3100FT AMSL
 AL SFC
 V X=43:23:00 N 002:06:00 E
 DC 1
@@ -10055,7 +10055,7 @@ DP 48:20:40 N 004:37:00 W
 DP 48:21:15 N 004:34:20 W
 
 **********************************
-** Zones Interdites Temporaires **
+*  Zones Interdites Temporaires  *
 **********************************
 
 ** ZIT 11 CREYS MALVILLE (07 JUN 2007) **
@@ -10994,7 +10994,7 @@ AL SFC
 V X=43:54:40 N 000:30:10 W
 DC 10.8
 
-** R 39 VILLEMAURY  (27/04/2017) **
+** R 39 VILLEMAURY (27/04/2017) **
 AC R
 AN R39 Carcassonne 121.000
 AH 4700FT AMSL
@@ -14305,7 +14305,7 @@ DP 44:10:00 N 000:07:00 W
 DP 44:20:00 N 000:07:00 E
 DP 44:32:15 N 000:09:46 W
 
-** R 115C CAPTIEUX  (2017/11/09) **
+** R 115C CAPTIEUX (2017/11/09) **
 AC R
 AN R 115B Captieux Marsan APP 119.7
 AH 7800FT AMSL
@@ -15282,7 +15282,7 @@ DP 44:04:00 N 003:07:00 E
 DP 44:06:00 N 003:07:00 E
 DP 44:06:00 N 003:16:53 E
 
-** R 171  BELFORT (2018/03/29)
+** R 171 BELFORT (2018/03/29)
 ** Activable NOTAM sauf W.E et JF tel : 03 84 57 52 23 **
 AC R
 AH 2800FT AMSL
@@ -15888,7 +15888,7 @@ DP 49:08:24 N 005:20:35 E
 
 ** (04/04/2015) R 209 L'ARSOT
 AC R
-AN  R209 L'ARSOT tel 03 84 98 43 69
+AN R209 L'ARSOT tel 03 84 98 43 69
 AH 4100FT AMSL
 AL SFC
 DP 47:42:05 N 006:54:57 E
@@ -16746,7 +16746,7 @@ DP 44:00:39 N 000:33:13 E
 
 ** R268 CERCOTTES (2018/04/26)
 AC R
-AN R268 CERCOTTES  12ème RC 02 38 82 25 24
+AN R268 CERCOTTES 12ème RC 02 38 82 25 24
 AH 2000FT AMSL
 AL SFC
 DP 47:57:47 N 001:55:37 E
@@ -17003,7 +17003,7 @@ DP 44:53:30 N 004:44:20 E
 DP 44:53:30 N 004:48:07 E
 DP 44:55:20 N 004:48:07 E
 
-** R 327 MONTECH  (2018/03/29)
+** R 327 MONTECH (2018/03/29)
 AN tel 05 63 21 73 34
 AC R
 AH 2000FT AMSL
@@ -17021,7 +17021,7 @@ AL SFC
 V X=43:36:51 N 001:05:37 W
 DC 0.93
 
-** R 329  PIERRELATTE (2018/03/29) **
+** R 329 PIERRELATTE (2018/03/29) **
 AN R 329 tel 04 75 96 97 00
 AC R
 AH 500FT ASFC
@@ -18166,8 +18166,8 @@ DP 45:41:16 N 005:27:13 E
 DP 45:41:16 N 005:29:51 E
 
 ********************************
-* DANGER AREAS (D) *
-* AIP France - ENR 5.1 *
+* DANGER AREAS (D)             *
+* AIP France - ENR 5.1         *
 ********************************
 
 ** LF D 19 GIVRY (27/04/2017)
@@ -18829,8 +18829,8 @@ DP 43:55:30 N 005:38:38 E
 
 ****************************************
 * SPORTING AND RECREATIONAL ACTIVITIES *
-* AIP France - ENR 5.5 *
-********************************************
+* AIP France - ENR 5.5                 *
+****************************************
 
 ** 301 Para LASCLAVERIES **
 AC Q
@@ -18957,8 +18957,8 @@ DC 0.5
 
 **************************************
 * NATIONAL PARKS AND NATURE RESERVES *
-* AIP France - ENR 5.6 *
-*******************************************
+* AIP France - ENR 5.6               *
+**************************************
 
 ** Ecrins Passages (Parc National) JM SAVOIE **
 
