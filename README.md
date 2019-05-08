@@ -4,6 +4,10 @@ Fichier FFVV « Espace Aérien France »
 Recopié de temps en temps depuis la page de la FFVV
 (http://fichier-ea.ffvv.org).
 
+**ATTENTION :** La Fédération Française de Vol à Voile (FFVV) a changé de nom.
+Il s’agit maintenant de la Fédération de Vol en Planeur (FFVP). En conséquence,
+les fichiers sont maintenant récupérés ici : https://www.ffvp.fr/liens-utiles-telechargements
+
 Différences avec l’original :
 * suppression du journal intégré au fichier, qui fait doublon avec le journal de git
 * suppression des espaces en fin de lignes
