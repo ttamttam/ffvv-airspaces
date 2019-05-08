@@ -26,64 +26,6 @@
 *			                                                                         *
 ********************************************************************************
 
-**************************
-*  Airspace COLOR-Table  *
-**************************
-
-** Avoidance during activity (R Areas and Class A) **
-AC A
-SP 0,2,255,0,0
-SB -1,-1,-1
-V X=51:30:00 N 3:00:00 E
-DC 0.05
-
-** Clearance requested (Class C and D) **
-AC C
-SP 0,2,0,0,255
-SB -1,-1,-1
-DC 0.05
-
-AC D
-SP 0,2,0,0,255
-SB -1,-1,-1
-DC 0.05
-
-** No Clearance requested when VMC (Class E) **
-AC E
-SP 0,2,200,200,255
-SB -1,-1,-1
-DC 0.05
-
-** Comply with Restrictions (Restricted Areas)
-AC R
-SP 0,2,0,0,0
-SB -1,-1,-1
-DC 0.05
-
-** Danger Areas **
-AC Q
-SP 0,1,255,0,0
-SB -1,-1,-1
-DC 0.05
-
-** Permanent Avoidance (Prohibited or Restricted Areas) **
-AC P
-SP 0,1,255,0,0
-SB 255,0,0
-DC 0.05
-
-** Dispensatory Glider Activity **
-AC W
-SP 0,2,0,255,0
-SB -1,-1,-1
-DC 0.05
-
-** Natural Parcs and Reserves, Parachute Activity **
-AC GP
-SP 1,1,255,0,0
-SB -1,-1,-1
-DC 0.05
-
 *********************************
 *   ZONE REGLEMENTE TEMPORAIRE  *
 *     SUP AIP France            *
@@ -14227,7 +14169,7 @@ DP 44:06:00 N 003:16:53 E
 ** R 170 A+B CALAMAR (2019/03/28) **
 AC R
 AN R170A+B CALAMAR 119.6
-AH FL195 AMSL
+AH FL195
 AL SFC
 DP 44:34:50 N 001:01:00 W
 DP 44:34:50 N 000:58:40 W
@@ -14242,6 +14184,7 @@ DP 44:30:30 N 001:10:30 W
 ** R 171  BELFORT (2018/11/08)
 ** Activable NOTAM sauf W.E et JF tel : 03 84 57 52 23 **
 AC R
+AN R171 BELFORT
 AH 2800FT AMSL
 AL SFC
 DP 47:35:22 N 006:54:39 E
@@ -16140,7 +16083,7 @@ DP 46:27:00 N 002:36:10 E
 
 ** R 368 E2 (2019/03/28) **
 AC R
-AN R 368 E2 activité NOTAM
+AN R 368 E2 activitÃ© NOTAM
 AH FL175
 AL FL155
 DP 46:27:00 N 002:36:10 E
@@ -16153,7 +16096,6 @@ DP 46:10:40 N 002:56:11 E
 DP 46:05:00 N 002:57:01 E
 DP 46:15:35 N 002:35:20 E
 DP 46:13:46 N 002:30:00 E
-DP
 V D=-
 V X=46:13:34 N 002:21:46 E
 DB 46:12:16 N 002:25:39 E,46:15:02 N 002:25:32 E
